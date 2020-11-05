@@ -1,0 +1,10 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\bin\Debug\WinAppVoz.exe.config
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\bin\Debug\WinAppVoz.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\bin\Debug\WinAppVoz.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.Form1.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.Properties.Resources.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.csproj.GenerateResource.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppVoz\WinAppVoz\obj\Debug\WinAppVoz.pdb
